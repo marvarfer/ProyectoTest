@@ -1,1 +1,1 @@
-Texto cambiado en master y en branch 1 otra vez, ahora desde tag v_0.0.2 y cambiado en branch2
+Texto cambiado en master y en branch 1 otra vez, ahora desde tag v_0.0.2 y cambiado en branch2 y branch 3
